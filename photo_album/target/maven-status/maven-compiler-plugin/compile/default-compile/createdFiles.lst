@@ -1,0 +1,5 @@
+cloudinary\models\Photo.class
+cloudinary\repositories\PhotoRepository.class
+cloudinary\lib\PhotoUploadValidator.class
+cloudinary\controllers\PhotoController.class
+cloudinary\models\PhotoUpload.class
